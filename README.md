@@ -1,5 +1,7 @@
-![coolicons by Kryston Schwarze](https://github.com/krystonschwarze/coolicons/blob/master/coolicons-feature-card.png?raw=true)
 
+## ww-coolicons
+
+This is a fork of @krystonschwarze 's excellent [coolicons](https://coolicons.cool/) collection, refactored specifically for use with [Weweb](https://www.weweb.io/)'s very particular icons system. For all other use cases, please refer to [the original](https://github.com/krystonschwarze/coolicons).
 
 # coolicons
 
@@ -7,22 +9,16 @@ coolicons is a carefully designed collection of 440+ icons with a focus on simpl
 
 ✨ **[Download coolicons](https://github.com/krystonschwarze/coolicons/releases/download/v4.1/coolicons.v4.1.zip)**
 
-✨ **[Get free Figma file](https://www.figma.com/community/file/800815864899415771)**
+✨ **[Get the free Figma file](https://www.figma.com/community/file/800815864899415771)**
 
 🌈 **[Get coolicons PRO](https://www.figma.com/community/file/1208110531299974704)**
 
+by Kryston Schwarze - visit his [Website](https://krystonschwarze.com/) or [Dribbble](https://dribbble.com/krystonschwarze). 
+You can also [buy him a coffee!](https://www.buymeacoffee.com/krystonschwarze)
 
-Visit to [coolicons.cool](https://coolicons.cool/)
-
-by Kryston Schwarze - visit my [Website](https://krystonschwarze.com/) or my [Dribbble](https://dribbble.com/krystonschwarze). 
-You can [buy me a coffee](https://www.buymeacoffee.com/krystonschwarze)
-
-
-## Support my work and get coolicons PRO
+## Support Kryston's work and get coolicons PRO
 
 ✨ **[Get coolicons PRO](https://www.figma.com/community/file/1208110531299974704)** ✨
-
-
 
 ### License
 You can use coolicons for your personal and commercial projects. 
