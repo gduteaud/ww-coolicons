@@ -1,5 +1,5 @@
 [
-    {"name": "Add_Column", "class": "ci-Add_Column"},
+{"name": "Add_Column", "class": "ci-Add_Column"},
 {"name": "Add_Minus_Square", "class": "ci-Add_Minus_Square"},
 {"name": "Add_Plus_Circle", "class": "ci-Add_Plus_Circle"},
 {"name": "Add_Plus_Square", "class": "ci-Add_Plus_Square"},
